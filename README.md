@@ -1,4 +1,4 @@
-<h1>Hi 👋 My name is Souvik Roy</h1>
+<h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" /> My name is Souvik Roy</h1>
 
 <h3>Programmer.</h3>
 Focused on building scalable, secure, user-friendly and production-grade applications with modern tecnologies.
